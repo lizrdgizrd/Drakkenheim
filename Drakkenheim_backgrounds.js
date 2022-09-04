@@ -356,8 +356,8 @@ BackgroundList["treasure seeker"] = {
 		"I always have an exit strategy in mind if things go poorly.",
 		"You can't survive in this grim city without a good sense of humor, but I have a taste for gallows humor.",
 		"I try to work in the thin grey area between the squabbling factions, squeezing under their radar when possible. The less I am seen, the better.",
-		"If you spot danger, it is best to avoid it, that’s how you survive.",
-		"Drakkenheim is a dangerous place. But I can navigate it with my eyes closed. No one else I’ve ever met is as good as I am.",
+		"If you spot danger, it is best to avoid it, that's how you survive.",
+		"Drakkenheim is a dangerous place. But I can navigate it with my eyes closed. No one else I've ever met is as good as I am.",
 		"In order to survive the monsters of Drakkenheim, one must be a monster of Drakkenheim.",
 		"Take everything you can from the dead, take it from the living if you can. If you are to survive, you must take any opportunity to scavenge.",
 		"I will never give up until I reclaim what I lost in these ruins."
